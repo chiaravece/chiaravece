@@ -1,7 +1,7 @@
 ### Hi there, I'm Chiara Vece 👋
 
 
-<img src="https://influencertoday.it/wp-content/uploads/2020/07/1595221002_0x0.jpg" width="500" height="300" align="center" />
+<img src="https://influencertoday.it/wp-content/uploads/2020/07/1595221002_0x0.jpg" width="600" height="300" align="center" />
 
 
 - 🔭 I’m currently working on my Master Thesis
