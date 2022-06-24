@@ -1,7 +1,12 @@
-### Hi there, I'm Chiara Vece 👋
 
 
-<img src="https://influencertoday.it/wp-content/uploads/2020/07/1595221002_0x0.jpg" width="600" height="300" align="center" />
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&size=19&duration=4998&color=F7F7F7&center=true&multiline=true&lines=Hi+there%2C+I'm+Chiara+Vece;I'm+studying+Applied+Physics+at+Unibo+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+
+
+
+<img src="https://influencertoday.it/wp-content/uploads/2020/07/1595221002_0x0.jpg" width="400" height="200" align="center" />
 
 
 - 🔭 I’m currently working on my Master Thesis
