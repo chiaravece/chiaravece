@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my Master Thesis
 - 💬 I'm a Master Student in Applied Physics to the Medical Field at Unibo
 
-![Chiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaravece&show_icons=true&theme=cobalt)
+
 
 
 ### Languages and other tools
